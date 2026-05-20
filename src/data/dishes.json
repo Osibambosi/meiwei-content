@@ -1,0 +1,12 @@
+{
+  "dishes": [
+    { "num": "01", "name": "Mapo Tofu", "cn": "麻婆豆腐", "tag": "Sichuan · Scharf", "tag_expanded": "Sichuan · Scharf · Klassiker", "image": "assets/flagship_mapotofu.jpg", "alt": "Mapo Tofu" },
+    { "num": "02", "name": "Knusprige Ente", "cn": "脆皮鸭", "tag": "Signature", "tag_expanded": "Signature · A, C, F", "image": "assets/flagship_knusprigeente.jpg", "alt": "Knusprige Ente" },
+    { "num": "03", "name": "Wantan in Chiliöl", "cn": "红油馄饨", "tag": "Bestseller", "tag_expanded": "Bestseller · A, C, F", "image": "assets/flagship_wantan_chili.jpg", "alt": "Wantan Chiliöl" },
+    { "num": "04", "name": "Gan Bian Rindfleisch", "cn": "干煸牛肉", "tag": "Sichuan", "tag_expanded": "Sichuan · Wok · A, F", "image": "assets/flagship_ganbianrindfleisch.jpg", "alt": "Gan Bian Rindfleisch" },
+    { "num": "05", "name": "Ban Mian Meeresfrüchte", "cn": "海鲜板面", "tag": "Nudelsuppe", "tag_expanded": "Nudelsuppe · A, B, D, F", "image": "assets/flagship_banmian_seafood.jpg", "alt": "Ban Mian Meeresfrüchte" },
+    { "num": "06", "name": "Tontopf Reis", "cn": "煲仔饭", "tag": "Hausmannskost", "tag_expanded": "Hausmannskost · F", "image": "assets/flagship_tontopf_reis.jpg", "alt": "Tontopf Reis" },
+    { "num": "07", "name": "Jiaozi mit Garnelen", "cn": "虾饺", "tag": "Handgemacht", "tag_expanded": "Tägl. handgemacht · A, B, C", "image": "assets/flagship_jiaozi_garnelen.jpg", "alt": "Jiaozi mit Garnelen" },
+    { "num": "08", "name": "1000 Jahre Eier mit Tofu", "cn": "皮蛋豆腐", "tag": "Klassiker", "tag_expanded": "Klassiker · E, F", "image": "assets/flagship_1000eier_tofu.jpg", "alt": "1000 Jahre Eier" }
+  ]
+}
