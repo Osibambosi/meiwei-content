@@ -1,0 +1,49 @@
+{
+  "title": "Meiwei – Chinesische Hausmannskost, Wien",
+  "description": "Meiwei – Chinesische Hausmannskost in Wien. Täglich frische Jiaozi, Mapo Tofu, Gan Bian, Ban Mian. Taborstraße 46A, 1020 Wien. Di–So 11:30–21:30.",
+  "hero": {
+    "chinese": "美味",
+    "title": "Meiwei",
+    "tagline": "Chinesische Hausmannskost",
+    "cta": "Reservieren"
+  },
+  "marquee": ["Jiaozi", "饺子", "Mapo Tofu", "麻婆豆腐", "Gan Bian", "干煸牛肉", "Ban Mian", "板面", "Wantan", "馄饨", "Tontopf Reis", "煲仔饭", "家常菜", "Hausmannskost"],
+  "about": {
+    "badge_number": "20+",
+    "badge_label": "Signatur-Gerichte",
+    "label": "Unsere Geschichte",
+    "title": "Hausmannskost —\nwie Mama sie kocht",
+    "body1": "Meiwei (美味 — 'köstlich') bringt die echte chinesische Familienküche ins 2. Wiener Bezirk. Kein Fusion, kein Kompromiss — nur das, was in chinesischen Haushalten täglich auf den Tisch kommt: frisch gefaltete Jiaozi, brodelnde Wok-Gerichte, dampfende Tontöpfe.",
+    "body2": "Die offene Showküche macht jeden Besuch zum Erlebnis. Durch die Glaswand sehen Sie, wie die Teigtaschen von Hand geformt werden — ein Ritual, das wir täglich zelebrieren.",
+    "tags": ["家常菜 Hausmannskost", "Sichuan-Küche", "Handgemachte Jiaozi", "Ban Mian Nudeln", "Offene Showküche", "Täglich frisch"]
+  },
+  "stats": [
+    { "value": "100%", "key": "Hausgemacht", "desc": "Jiaozi täglich frisch gefaltet — von Hand, nach Familienrezept, kein Convenience." },
+    { "value": "Di–So", "key": "Geöffnet", "desc": "11:30 bis 21:30 Uhr, sechs Tage die Woche. Mittagstisch und Abendessen." },
+    { "value": "20+", "key": "Gerichte", "desc": "Von der klassischen Teigtasche bis zum Tontopf Reis — die volle Breite chinesischer Hausmannskost." },
+    { "value": "2.", "key": "Bezirk Wien", "desc": "Taborstraße 46A, Ecke Novaragasse — mitten im Herzen der Leopoldstadt." }
+  ],
+  "contact": {
+    "phone": "01 298 88 88",
+    "phone_href": "tel:+4312988888",
+    "address": "Taborstraße 46A · Ecke Novaragasse · 1020 Wien",
+    "maps_url": "https://maps.google.com/?q=Taborstraße+46A,+1020+Wien",
+    "instagram": "@meiwei_at",
+    "instagram_url": "https://www.instagram.com/meiwei_at/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61572701669907",
+    "quandoo_url": "https://www.quandoo.at/place/meiwei-chinese-cuisine-wien-107469/bewertungen"
+  },
+  "hours": [
+    { "day": "Montag", "time": "", "closed": true },
+    { "day": "Dienstag", "time": "11:30–21:30", "closed": false },
+    { "day": "Mittwoch", "time": "11:30–21:30", "closed": false },
+    { "day": "Donnerstag", "time": "11:30–21:30", "closed": false },
+    { "day": "Freitag", "time": "11:30–21:30", "closed": false },
+    { "day": "Samstag", "time": "11:30–21:30", "closed": false },
+    { "day": "Sonntag", "time": "11:30–21:30", "closed": false }
+  ],
+  "footer": {
+    "brand": "Jiaozi KG · Chinesische Hausmannskost · Wien",
+    "copyright": "© 2026 Jiaozi KG · Alle Rechte vorbehalten"
+  }
+}
