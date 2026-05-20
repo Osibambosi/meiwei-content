@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "char": "饺",
+      "category": "Jiaozi & Teigtaschen",
+      "sub": "Täglich handgemacht",
+      "count": 6,
+      "note": "6 Stk / 10 Stk · Täglich von Hand gefaltet · Preise in €",
+      "items": [
+        { "name": "Jiaozi mit Gemüse (Tofu, Pilze)", "cn": "素饺子", "price": "7,90 / 11,90" },
+        { "name": "Jiaozi mit Garnelen & Fischfilet", "cn": "虾鱼饺", "price": "8,50 / 13,80" },
+        { "name": "Jiaozi mit Hühnerfleisch", "cn": "鸡肉饺子", "price": "7,90 / 11,90" },
+        { "name": "Jiaozi mit Rindfleisch", "cn": "牛肉饺子", "price": "7,90 / 11,90" },
+        { "name": "Wantan in Chiliöl-Sauce", "cn": "红油馄饨", "price": "6,50" },
+        { "name": "Mix Jiaozi (4 Sorten)", "cn": "什锦饺子", "price": "14,80 / 21,90" }
+      ]
+    },
+    {
+      "char": "炒",
+      "category": "Wok & Gebratenes",
+      "sub": "Hohe Flamme, echte Woks",
+      "count": 7,
+      "note": "",
+      "items": [
+        { "name": "Gan Bian Rindfleisch", "cn": "干煸牛肉", "price": "15,90 €" },
+        { "name": "Knusprige Ente", "cn": "脆皮鸭", "price": "17,80 €" },
+        { "name": "Gebackene Riesengarnelen", "cn": "炸大虾", "price": "23,90 €" },
+        { "name": "Gebratenes Lammfleisch", "cn": "炒羊肉", "price": "17,80 €" },
+        { "name": "Hühnerfleisch Chop Suey", "cn": "鸡肉杂碎", "price": "14,90 €" },
+        { "name": "Tempura Hühnerstreifen", "cn": "天妇罗鸡条", "price": "8,50 €" },
+        { "name": "Meiwei Curry (Tofu / Huhn / Rind)", "cn": "咖喱", "price": "15,90–18,90 €" }
+      ]
+    },
+    {
+      "char": "辣",
+      "category": "Sichuan & Schmorgerichte",
+      "sub": "Ma La · Scharf & Betäubend",
+      "count": 6,
+      "note": "Schärfegrad auf Wunsch anpassbar · Alle Preise inkl. MwSt.",
+      "items": [
+        { "name": "Mapo Tofu (Tofu / Huhn / Rind)", "cn": "麻婆豆腐", "price": "13,80–15,90 €" },
+        { "name": "Gong Bao (Tofu / Huhn / Rind)", "cn": "宫保", "price": "14,80–19,90 €" },
+        { "name": "Geschmortes Rindfleisch im Topf", "cn": "炖牛肉", "price": "15,90 €" },
+        { "name": "Gebratene Melanzani Yu-Xiang Art", "cn": "鱼香茄子", "price": "13,90 €" },
+        { "name": "1000 jährige Eier mit Tofu", "cn": "皮蛋豆腐", "price": "6,50 €" },
+        { "name": "Geschmorte Fischbällchen", "cn": "红烧鱼丸", "price": "13,90 €" }
+      ]
+    },
+    {
+      "char": "面",
+      "category": "Ban Mian & Suppen",
+      "sub": "Nudelgerichte · Brühen",
+      "count": 6,
+      "note": "Mittagsmenü Di–Fr 11:30–14:30 · Vollständige Karte auf meiwei.at",
+      "items": [
+        { "name": "Ban Mian mit Meeresfrüchten", "cn": "海鲜板面", "price": "17,80 €" },
+        { "name": "Ban Mian mit Huhn", "cn": "鸡肉板面", "price": "14,90 €" },
+        { "name": "Ban Mian mit knuspriger Ente", "cn": "脆鸭板面", "price": "16,90 €" },
+        { "name": "Ban Mian mit Gemüse", "cn": "蔬菜板面", "price": "13,90 €" },
+        { "name": "Tom Yam Suppe (Huhn / Meeresfrüchte)", "cn": "冬阴功", "price": "6,50–8,50 €" },
+        { "name": "Tontopf Reis (Huhn & chin. Wurst)", "cn": "煲仔饭", "price": "13,90 €" }
+      ]
+    }
+  ]
+}
